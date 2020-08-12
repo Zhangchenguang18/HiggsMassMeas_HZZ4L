@@ -1,0 +1,96 @@
+##############################################
+###### --------------- MC ---------------#####
+##############################################
+########/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 7181
+#/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext2-v1/MINIAODSIM 7181
+/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 14420 2018_DY_madg_vtx_200812
+#/GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.01218 2018GGH_125_vtx
+#/VBF_HToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.001034 2018VBF_125
+#/WplusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0002339 2018WplusH_125
+#/WminusH_HToZZTo4L_M125_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001471 2018WminusH_125
+#/ZH_HToZZ_4LFilter_M125_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0006569 2018ZH_125
+#/ttH_HToZZ_4LFilter_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00038991 2018ttH_125
+#/bbH_HToZZTo4L_M125_13TeV_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0001599
+##############################################
+###### ------------- 120  ---------------#####
+##############################################
+#/GluGluHToZZTo4L_M120_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00792 2018GGH_120
+#/VBF_HToZZTo4L_M120_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0006573 2018VBF_120
+#/WplusH_HToZZTo4L_M120_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001606 2018WplusH_120
+#/WminusH_HToZZTo4L_M120_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001015 2018WminusH_120
+#/ZH_HToZZ_4LFilter_M120_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0004467 2018ZH_120
+#/ttH_HToZZ_4LFilter_M120_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00021383 2018ttH_120
+#/bbH_HToZZTo4L_M120_13TeV_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0001084
+##############################################
+###### ------------- 124  ---------------#####
+##############################################
+#/GluGluHToZZTo4L_M124_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.01122 2018GGH_124
+#/VBF_HToZZTo4L_M124_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0009606 2018VBF_124
+#/WplusH_HToZZTo4L_M124_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0002190 2018WplusH_124
+#/WminusH_HToZZTo4L_M124_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001379 2018WminusH_124
+#/ZH_HToZZ_4LFilter_M124_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0006145 2018ZH_124
+#/ttH_HToZZ_4LFilter_M124_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00034867 2018ttH_124
+#/bbH_HToZZTo4L_M124_13TeV_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0001496
+##############################################
+###### ------------- 126  ---------------#####
+##############################################
+#/GluGluHToZZTo4L_M126_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.01308 2018GGH_126
+#/VBF_HToZZTo4L_M126_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.001133 2018VBF_126
+#/WplusH_HToZZTo4L_M126_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0002497 2018WplusH_126
+#/WminusH_HToZZTo4L_M126_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001570 2018WminusH_126
+#/ZH_HToZZ_4LFilter_M126_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0007026 2018ZH_126
+#/ttH_HToZZ_4LFilter_M126_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00041842 2018ttH_126
+#/bbH_HToZZTo4L_M126_13TeV_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.00017
+##############################################
+###### ------------- 130  ---------------#####
+##############################################
+#/GluGluHToZZTo4L_M130_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.01706 2018GGH_130
+#/VBF_HToZZTo4L_M130_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.001506 2018VBF_130
+#/WplusH_HToZZTo4L_M130_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0003103 2018WplusH_130
+#/WminusH_HToZZTo4L_M130_13TeV_powheg2-minlo-HWJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.0001944 2018WminusH_130
+#/ZH_HToZZ_4LFilter_M130_13TeV_powheg2-minlo-HZJ_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0008778 2018ZH_130
+#/ttH_HToZZ_4LFilter_M130_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00046059 2018ttH_130
+#/bbH_HToZZTo4L_M130_13TeV_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 0.0002056
+##############################################
+###### ---------- BACKGROUND ------------#####
+##############################################
+#/ZZTo4L_13TeV_powheg_pythia8_TuneCP5/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 1.256 qqZZ_2018 
+#/ZZTo4L_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 1.212
+#/GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00159 ggZZ_4e_2018
+#/GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM 0.00159 ggZZ_4mu_2018
+#/GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM 0.00159 ggZZ_4tau_2018
+#/GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM 0.00319 ggZZ_2e2mu_2018
+#/GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM 0.00319 ggZZ_2e2tau_2018
+#/GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v4/MINIAODSIM 0.00319 ggZZ_2mu2tau_2018
+#/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 14420
+#/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM 15680
+##############################################
+###### ------------- DATA ---------------#####
+##############################################
+#------------ MUON --------
+#/DoubleMuon/Run2018D-PromptReco-v2/MINIAOD 1.0
+#/DoubleMuon/Run2018C-PromptReco-v3/MINIAOD 1.0
+#/DoubleMuon/Run2018C-PromptReco-v2/MINIAOD 1.0
+#/DoubleMuon/Run2018C-PromptReco-v1/MINIAOD 1.0
+#/DoubleMuon/Run2018B-PromptReco-v2/MINIAOD 1.0
+#/DoubleMuon/Run2018B-PromptReco-v1/MINIAOD 1.0
+#/DoubleMuon/Run2018A-PromptReco-v3/MINIAOD 1.0
+#/DoubleMuon/Run2018A-PromptReco-v2/MINIAOD 1.0
+#/DoubleMuon/Run2018A-PromptReco-v1/MINIAOD 1.0
+#/SingleMuon/Run2018A-17Sep2018-v2/MINIAOD 1.0
+#/SingleMuon/Run2018B-17Sep2018-v1/MINIAOD 1.0
+#/SingleMuon/Run2018C-17Sep2018-v1/MINIAOD 1.0
+#/SingleMuon/Run2018D-PromptReco-v2/MINIAOD 1.0
+##########/SingleMuon/Run2018D-30Apr2019-v1/MINIAOD 1.0
+#-------------- ELECTRON -----------
+#/EGamma/Run2018A-17Sep2018-v2/MINIAOD 1.0
+#/EGamma/Run2018B-17Sep2018-v1/MINIAOD 1.0
+#/EGamma/Run2018C-17Sep2018-v1/MINIAOD 1.0
+#/EGamma/Run2018D-PromptReco-v2/MINIAOD 1.0
+##########/EGamma/Run2018D-22Jan2019-v2/MINIAOD 1.0
+#                                                  
+#                                                  
+###################################################
+###############     J/Psi and Y      ##############
+###################################################
+#/JpsiToMuMu_JpsiPt8_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM 874800
